@@ -1,0 +1,11 @@
+Run in following order:
+!python main.py
+!python Auth.py
+!python screen.py
+
+Additional: 
+	
+	To add new entry: !python Add_New.py
+	To verify and give to existing: !python Recog.py
+	To check attendance in terminal: !python attendance.py 
+
